@@ -1,0 +1,14 @@
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\obj\Debug\CinemaPlus.Form1.resources
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\obj\Debug\CinemaPlus.Properties.Resources.resources
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\obj\Debug\CinemaPlus.csproj.GenerateResource.Cache
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\obj\Debug\CinemaPlus.csproj.CoreCompileInputs.cache
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\bin\Debug\CinemaPlus.exe.config
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\bin\Debug\CinemaPlus.exe
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\bin\Debug\CinemaPlus.pdb
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\bin\Debug\EntityFramework.dll
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\bin\Debug\EntityFramework.xml
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\obj\Debug\CinemaPlus.exe
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\obj\Debug\CinemaPlus.pdb
+C:\Users\P206\source\repos\CinemaPlus\CinemaPlus\obj\Debug\CinemaPlus.csprojResolveAssemblyReference.cache

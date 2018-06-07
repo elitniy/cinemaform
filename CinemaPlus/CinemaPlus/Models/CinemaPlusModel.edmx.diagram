@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="b7b556f6c12140f2b71f1304ee1295c3" Name="Diagram1">
+        <EntityTypeShape EntityType="CinemaPlusDBModel.Contry" Width="1.5" PointX="0.75" PointY="8" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.FilmContry" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.FilmGenre" Width="1.5" PointX="3" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.Film" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.Genre" Width="1.5" PointX="0.75" PointY="2" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.Hall" Width="1.5" PointX="3.75" PointY="7.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.Poster" Width="1.5" PointX="6" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.Seat" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.sysdiagram" Width="1.5" PointX="8.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="CinemaPlusDBModel.Order" Width="1.5" PointX="8.25" PointY="4.375" IsExpanded="true" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_FilmContries_Contries" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_FilmContries_Films" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_FilmGenre_Films" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_FilmGenre_Genres" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_Posters_Films" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_Posters_Halls" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_Posters_Halls1" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_Orders_Posters1" ManuallyRouted="false" />
+        <AssociationConnector Association="CinemaPlusDBModel.FK_Orders_Posters" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
